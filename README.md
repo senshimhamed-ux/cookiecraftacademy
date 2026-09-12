@@ -1,6 +1,6 @@
 # Cookie Craft Academy — Edge Gateway Infrastructure
 
-A high-performance edge gateway and request orchestration infrastructure built on Cloudflare Workers for Cookie Craft Academy. Provides global low-latency routing, intelligent request handling, and origin protection.
+A high-performance edge gateway and request orchestration infrastructure built by me for Cookie Craft Academy. Provides global low-latency routing, intelligent request handling, and origin protection.
 
 ## Architecture
 
