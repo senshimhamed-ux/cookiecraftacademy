@@ -1,4 +1,4 @@
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-2ea44f?style=for-the-badge)](https://cookiecraftacademy.cookiecraftacademy.workers.dev/.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-2ea44f?style=for-the-badge)](https://cookiecraftacademy.cookiecraftacademy.workers.dev/)
 # Cookie Craft Academy — Edge Gateway Infrastructure
 
 A high-performance edge gateway and request orchestration infrastructure built by me for Cookie Craft Academy. Provides global low-latency routing, intelligent request handling, and origin protection.
